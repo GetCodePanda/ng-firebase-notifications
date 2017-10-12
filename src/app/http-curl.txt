@@ -1,4 +1,4 @@
 curl https://fcm.googleapis.com/fcm/send \
      -H "Content-Type: application/json" \
      -H "Authorization: key=YOUR_API_KEY" \
-     -d '{ "notification": {"title": "Test title", "body": "Test Body"},"to" : "YOR_TOKEN"}'
+     -d '{ "notification": {"title": "Test title", "body": "Test Body"},"to" : "YOuR_TOKEN"}'
